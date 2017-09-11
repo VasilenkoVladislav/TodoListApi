@@ -7,5 +7,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/TodoList_API_development</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="d90jvr0nihuj3a@ec2-204-236-239-225.compute-1.amazonaws.com" uuid="5655541f-a918-4d57-a54c-f0cfbf4e6b13">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-204-236-239-225.compute-1.amazonaws.com:5432/d90jvr0nihuj3a</jdbc-url>
+    </data-source>
   </component>
 </project>

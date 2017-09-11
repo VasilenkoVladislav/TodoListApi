@@ -10,5 +10,11 @@
       <user-name>username</user-name>
       <introspection-schemas>TodoList_API_development:public</introspection-schemas>
     </data-source>
+    <data-source name="d90jvr0nihuj3a@ec2-204-236-239-225.compute-1.amazonaws.com" uuid="5655541f-a918-4d57-a54c-f0cfbf4e6b13">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>cosifqueiueakw</user-name>
+    </data-source>
   </component>
 </project>
